@@ -1,0 +1,69 @@
+.wrapper-content-top {
+  position: relative;
+  background-color: white;
+}
+
+.block-background-image {
+  position: relative;
+  background: url("../../imgs/top-background.jpg");
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.wrapper-content-top .block-background-child {
+  position: relative;
+  opacity: 0.6;
+}
+
+.block-main {
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  z-index: 99;
+} 
+
+.block-text {
+  text-align: center;
+}  
+
+.block-text .text-big {
+  font-size: 52px;
+  color: #000000;
+  margin-bottom: 0;
+} 
+
+.block-text .text-small {
+  font-size: 32px;
+  color: #000000;
+} 
+
+.block-main .block-btn {
+  text-align: center;
+  margin-top: 114px;
+}  
+a:hover {
+  text-decoration: none;
+} 
+
+.btn-blue {
+  background-color: #3ACCE1;
+}
+
+.btn-gray {
+  background-color: #353A50;
+} 
+
+.common-btn {
+  width: 90%;
+  color: #FFFFFF;
+  border-radius: 12px;
+  padding: 15px 20px;
+  font-size: 14px;
+} 
+    

@@ -1,0 +1,131 @@
+*{margin:0px; padding: 0px}
+
+.page_content-banner {
+    background-image: url(../../imgs/banner_B_2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    background-position-x: -30px;
+}
+
+.banner-text {
+    height: 225px;
+    width: 72%;
+    padding-top: 179px;
+}
+
+h1.banner-text_title {
+    font-size: 24px;
+    color: white;
+}
+
+.page_content_info_header {
+    height: 142px;
+    background: #272727;
+    padding: 20px 15px;
+}
+
+h1.info_header_left-text {
+    color: white;
+    font-size: 20px;
+}
+
+p.header_right-title {
+    font-size: 16px !important;
+    color: white;
+}
+
+p.header_right-text {
+    color: white;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.page_content_text-detail {
+	padding: 30px;
+}
+
+.page_content_text_title h1 {
+	font-size: 28px;
+	color: #848484;
+}
+
+.page_content_text_title {
+    padding-bottom: 40px;
+}
+
+.page_content_text_description {
+    font-size: 15px;
+    color: #848484;
+}
+.page_content_main {
+    background-color: #21102E;
+    padding: 15px;
+}
+
+.page_content_main_regiter {
+    color: white;
+}
+
+select.form-control {
+    border-radius: 10px;
+}
+
+.register_block {
+    margin-bottom: 10px;
+}
+
+.content_right-detail {
+    width: 60%;
+    display: flex;
+    float: right;
+    padding-bottom: 5%;
+}
+
+.content_right-detail label {
+    width: 50%;
+    margin-left: 12px;
+    margin-top: 6px;
+    font-size: 13px;
+}
+
+label.select_right {
+    width: 10%;
+}
+
+.register_block_content_right {
+        height: 25px;
+}
+
+.content_right-center {
+    display: flex;
+    margin-left: 6%;
+    margin-top: 4%;
+}
+
+.content_right-center label {
+	margin-top: -2%;
+	margin-left: 15px;
+	font-size: 18px;
+	margin-right: 35px;
+}
+
+.button_submit {
+	background-image: url(../../imgs/button_slide.png);
+	width: 65%;
+	background-size: cover;
+	height: 57px;
+	margin: auto;
+}
+
+.button_a a {
+    color: white;
+}
+
+.button_submit h3 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 18px;
+    font-size: 20px;
+}

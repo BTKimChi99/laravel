@@ -1,0 +1,23 @@
+.title_header {
+    background: linear-gradient(90deg, #4527A0 36%, #7B1FA2 100%);
+    padding: 10px;
+}
+
+.title_header-content a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.title_header-content a img {
+    padding-right: 25px;
+    margin-left: 10px;
+}
+
+.error-message{
+    color:red;
+}
+
+strong {
+    display: none;
+}
